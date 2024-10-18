@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background-image: url(./bg3.png);
+    background-size: cover;
+    background-position: center;
+  
+    z-index:;
+}
+.our{
+    font-size: 50px;
+}
+.study{
+    font-size: 40px;
+}
+.quick{
+    font-size: 25px;
+}
+.carears{
+    font-size: 40px;
+}
+.popular{
+    font-size: 60px;
+    tab-size: bold;
+}
+.college{
+    background-image: url(./bg3.png);
+    background-size: cover;
+    background-position: center;
+    height:600px;
+}
+.virsity{
+   font-size: 40px;
+}
