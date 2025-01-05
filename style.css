@@ -3,11 +3,11 @@
     padding: 0;
 }
 .bg{
-    background-image: url(./bg3.png);
+    background-image: url(/bg3.png);
     background-size: cover;
     background-position: center;
   
-    z-index:;
+    z-index:0;
 }
 .our{
     font-size: 50px;
